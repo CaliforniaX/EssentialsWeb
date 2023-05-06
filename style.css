@@ -1,3 +1,7 @@
 body {
-    background: rgb(253,187,45);
+    min-height: 75rem;
+}
+
+.websiteList {
+    text-align: center;
 }
